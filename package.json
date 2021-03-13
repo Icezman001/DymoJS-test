@@ -1,0 +1,24 @@
+{
+  "name": "DymoJS-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icezman001/DymoJS-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Icezman001/DymoJS-test/issues"
+  },
+  "homepage": "https://github.com/Icezman001/DymoJS-test#readme",
+  "dependencies": {
+    "dymojs": "^1.2.0"
+  }
+}
